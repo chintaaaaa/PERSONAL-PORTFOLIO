@@ -1,0 +1,20 @@
+body{
+    background-color: white;
+}
+.img-fluid{
+    height: 175px;
+    width: 170px;
+    border-radius: 100px;
+}
+a{
+    text-decoration: none;
+}
+.obj{
+      
+}
+.container{
+    background-image: url(https://www.mmppicture.co.in/wp-content/uploads/2020/08/Blur-Background-5-857x1080.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
